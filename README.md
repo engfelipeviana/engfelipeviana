@@ -1,5 +1,6 @@
 ### Hi there I'm engfelipeviana
 
+- 🔭 I’m currently working with Machine Learning Engineering.
 - 🔭 I’m currently working with Python backend solutions.
 - 🌱 I’m currently learning NLP and Rust Programming language.
 
