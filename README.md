@@ -43,18 +43,15 @@
 > *(Fixe no topo do seu perfil os repositórios abaixo ou similares)*
 
 - 🔒 `ml-project-fraud-detection` – End-to-end ML with data cleaning, training & FastAPI.
-- 🧾 `nlp-keyword-extraction` – NLP project with keyword extraction from text documents.
-- ⚡ `rust-perf-data-pipeline` – Data processing using Rust for performance benchmarking.
+
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/engfelipeviana"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/@AI4Buzinezz"><img src="https://img.shields.io/badge/-YouTube-EA4335?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://instagram.com/seuusuario"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:felipe@engfelipeviana.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/datasciencefelipeviana"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
 </p>
 
 ---
@@ -63,7 +60,7 @@
 
 - 🎯 I enjoy solving real-world problems with data and code
 - 🎙️ I'm exploring content creation on AI and data for business
-- 🎯 Goal for 2025: Merge ML + Cloud + Optimization in impactful projects
+
 
 ---
 
