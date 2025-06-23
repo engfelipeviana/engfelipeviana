@@ -12,8 +12,8 @@
 ### 🔭 Currently Working On
 - 🧠 Machine Learning Engineering (modeling, deployment, MLOps)
 - ⚙️ Python backend for scalable data pipelines (FastAPI, SQLAlchemy)
-- 🗣️ Natural Language Processing for business use cases
-- 🦀 Rust Programming for performance-critical systems
+
+
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### 📌 Pinned Projects
 
-> *(Fixe no topo do seu perfil os repositórios abaixo ou similares)*
+
 
 - 🔒 `ml-project-fraud-detection` – End-to-end ML with data cleaning, training & FastAPI.
 
